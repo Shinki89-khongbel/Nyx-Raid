@@ -1,5 +1,5 @@
 
-# 🚀 NyxLocket Tool Open Source v1.0.6 🚀
+# 🧿 NyxLocket Tool Open Source v1.0.6 🧿
 
 
 > Đây là công cụ giúp bạn tăng bạn bè ảo hoàn loạt bằng cách tạo nhiều tài khoản rác và gửi yêu cầu kết bạn tới Locket được chỉ định.<br>
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```bash
 pip install requests tqdm colorama pystyle urllib3
 ```
-### 🏃 Chạy Tool
+### ⚙ Chạy Tool
 ```bash
 python zLocket-Tool.py
 ```
@@ -53,7 +53,7 @@ curl -o proxy.txt "https://thanhdieu.com/api/list/proxyv3.txt"
 ```bash
 curl -o proxy.txt "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&protocol=http&proxy_format=protocolipport&format=text&timeout=20000"
 ```
-### 🏃 Chạy Tool
+### ⚙ Chạy Tool
 ```bash
 python zLocket-Tool.py
 ```
